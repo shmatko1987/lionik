@@ -318,13 +318,13 @@ html {
     border-color: transparent;
 }
 .section-contacts-icon-gps {
-    background-image: url(img/gps.png);
+    background-image: url('img/gps.png');
 }
 .section-contacts-icon-phone {
-    background-image: url(img/phone.png);
+    background-image: url('img/phone.png');
 }
 .section-contacts-icon-mail {
-    background-image: url(img/mail.png);
+    background-image: url('img/mail.png');
     background-size: auto 19px;
 }
 .section-contacts-heading {
